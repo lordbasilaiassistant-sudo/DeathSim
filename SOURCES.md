@@ -2,35 +2,37 @@
 
 Master citation list. Each entry is keyed by the `[Tag]` used inline throughout the repository. Primary peer-reviewed literature is preferred; textbooks are used for `[ESTABLISHED]` consensus.
 
-> **Verification note:** entries below were assembled from study titles, journals, and findings confirmed via search. Before this repo is promoted as a public reference, each DOI/URL should be opened and the page/volume details double-checked. Where a precise locator (page, DOI) is not yet verified, that is flagged. Accuracy over completeness — flag, don't fabricate.
+> **Verification note (2026-06-07):** every primary-literature entry below has been individually verified against the publisher record / PubMed / PMC — authors, year, title, journal, volume/issue, page-or-article number, and DOI confirmed. Verified entries carry a `✓verified 2026-06-07` tag; any entry that could not be fully confirmed is flagged `⚠`. Reference textbooks carry the current standard edition + publisher. Accuracy over completeness — flagged, never fabricated.
 
 ## Primary literature
 
-- **[Borjigin2013]** — Borjigin J. et al. (2013). "Surge of neurophysiological coherence and connectivity in the dying brain." *PNAS* 110(35):14432–14437. DOI: 10.1073/pnas.1308285110. *(Rat model; gamma surge within ~30 s post cardiac arrest, preceding isoelectric EEG.)*
+- **[Borjigin2013]** — Borjigin J. et al. (2013). "Surge of neurophysiological coherence and connectivity in the dying brain." *PNAS* 110(35):14432–14437. DOI: 10.1073/pnas.1308285110. *(Rat model; gamma surge within ~30 s post cardiac arrest, preceding isoelectric EEG.)* — ✓verified 2026-06-07 (full authors Borjigin J, Lee U, Liu T, Pal D, Huff S, Klarr D, Sloboda J, Hernandez J, Wang MM, Mashour GA; PNAS 110(35):14432–14437).
 
-- **[Borjigin2023]** — Xu G., Borjigin J. et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS* 120(19):e2216268120. DOI: 10.1073/pnas.2216268120. *(Small-N human; gamma/connectivity after withdrawal of life support.)*
+- **[Borjigin2023]** — Xu G., Borjigin J. et al. (2023). "Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain." *PNAS* 120(19):e2216268120. DOI: 10.1073/pnas.2216268120. *(Small-N human; gamma/connectivity after withdrawal of life support.)* — ✓verified 2026-06-07 (first author Gang Xu; PNAS 120(19):e2216268120).
 
-- **[Vicente2022]** — Vicente R. et al. (2022). "Enhanced Interplay of Neuronal Coherence and Coupling in the Dying Human Brain." *Frontiers in Aging Neuroscience* 14:813531. *(Single 87-y-o case; RELATIVE — not absolute — gamma increase; heavily confounded. See also Greyson/commentary, Front. Aging Neurosci. 2022, doi:10.3389/fnagi.2022.899491.)*
+- **[Vicente2022]** — Vicente R. et al. (2022). "Enhanced Interplay of Neuronal Coherence and Coupling in the Dying Human Brain." *Frontiers in Aging Neuroscience* 14:813531. DOI: 10.3389/fnagi.2022.813531. *(Single 87-y-o case; RELATIVE — not absolute — gamma increase; heavily confounded. See also Greyson/commentary, Front. Aging Neurosci. 2022, doi:10.3389/fnagi.2022.899491.)* — ✓verified 2026-06-07 (Front Aging Neurosci 14:813531, DOI 10.3389/fnagi.2022.813531; senior author Zemmar A).
 
-- **[Parnia2023]** — Parnia S. et al. (2023). "AWAreness during REsuscitation – II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation* 191:109903. *(25-site prospective; covert-consciousness spectrum; placed visual targets not confirmed; interpretable EEG in 53/567.)*
+- **[Parnia2023]** — Parnia S. et al. (2023). "AWAreness during REsuscitation – II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation* 191:109903. DOI: 10.1016/j.resuscitation.2023.109903. *(Multi-site prospective, 567 in-hospital cardiac arrests; ~40% perceived consciousness without explicit recall, ~20% recalled experience of death, ~3% overt visual/auditory awareness; NO survivor identified the placed visual targets; interpretable EEG in 53/567.)* — ✓verified 2026-06-07 (Resuscitation vol 191, art 109903, DOI 10.1016/j.resuscitation.2023.109903; headline stats and 53/567 interpretable-EEG figure confirmed).
 
-- **[Vrselja2019]** — Vrselja Z. et al. (2019). "Restoration of brain circulation and cellular functions hours post-mortem." *Nature* 568:336–343. DOI: 10.1038/s41586-019-1099-1. *(Yale "BrainEx"; pig brain cellular/molecular function restored ~4 h post-mortem; NO coordinated brain-wide activity / no consciousness.)*
+- **[Vrselja2019]** — Vrselja Z. et al. (2019). "Restoration of brain circulation and cellular functions hours post-mortem." *Nature* 568(7752):336–343. DOI: 10.1038/s41586-019-1099-1. *(Yale "BrainEx"; pig brain cellular/molecular function restored ~4 h post-mortem; NO coordinated brain-wide activity / no consciousness.)* — ✓verified 2026-06-07 (Vrselja Z, Daniele SG, Silbereis J, et al.; Nature 568(7752):336–343).
 
-- **[Zandt2011]** — Zandt B.-J. et al. (2011). "Neural dynamics during anoxia and the 'wave of death.'" *PLoS ONE* 6(7):e22127. *(Modeling/observation of terminal depolarization wave.)*
+- **[Zandt2011]** — Zandt B.-J. et al. (2011). "Neural dynamics during anoxia and the 'wave of death.'" *PLoS ONE* 6(7):e22127. DOI: 10.1371/journal.pone.0022127. *(Modeling/observation of terminal depolarization wave.)* — ✓verified 2026-06-07 (Zandt B-J, ten Haken B, van Dijk JG, van Putten MJAM; PLoS ONE 6(7):e22127, DOI 10.1371/journal.pone.0022127).
 
-- **[Dreier]** — Dreier J.P. et al. Work on spreading depolarization and terminal spreading depolarization in human cortex (multiple papers; e.g., *Brain* / *Annals of Neurology*). *Locator to be verified — placeholder pending exact citation selection.*
+- **[Dreier2018]** — Dreier J.P., Major S., Foreman B., Winkler M.K.L., Kang E.-J., Milakara D., Lemale C.L., DiNapoli V., Hinzman J.M., Woitzik J., Andaluz N., Carlson A., Hartings J.A. (2018). "Terminal spreading depolarization and electrical silence in death of human cerebral cortex." *Annals of Neurology* 83(2):295–310. DOI: 10.1002/ana.25147. *(Direct human cortical electrocorticography during withdrawal of life support; terminal/"tombstone" spreading depolarization marks the commencement of the toxic cellular cascade toward neuronal death; non-resuscitable after a finite SD-survival window.)* — ✓verified 2026-06-07 (Ann Neurol 83(2):295–310, Feb 2018, DOI 10.1002/ana.25147; open access, PMC5901399).
+
+- **[Hansen1977]** — Hansen A.J. (1977). "Extracellular potassium concentration in juvenile and adult rat brain cortex during anoxia." *Acta Physiologica Scandinavica* 99(4):412–420. PMID: 855671. *(Direct K⁺-selective microelectrode measurement: resting cortical [K⁺]ₒ ≈ 3–5 mM; during anoxia [K⁺]ₒ rises abruptly to a ceiling on the order of ~50–80 mM at anoxic depolarization. The empirical anchor used to validate the Experiment-01 biophysical model in [`research/01-energy-failure-gamma-surge/`](./research/01-energy-failure-gamma-surge/).)* — ✓verified 2026-06-07 (Acta Physiol Scand 99(4):412–420, PMID 855671).
 
 ## Foundational / reference
 
-- **[Chalmers]** — Chalmers D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3):200–219. *(The "hard problem.")*
+- **[Chalmers]** — Chalmers D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3):200–219. *(The "hard problem.")* — ✓verified 2026-06-07 (J Conscious Stud 2(3):200–219, 1995).
 
-- **[UDDA]** — Uniform Determination of Death Act (1981), USA. Defines legal death as irreversible cessation of circulatory/respiratory function OR of all functions of the entire brain including the brainstem.
+- **[UDDA]** — Uniform Determination of Death Act (1981), USA. Defines legal death as irreversible cessation of circulatory/respiratory function OR of all functions of the entire brain including the brainstem. — ✓verified 2026-06-07 (model statute approved 1981 by NCCUSL/ULC with the AMA, ABA, and President's Commission; two-criterion text confirmed; adopted in most US states).
 
-- **[Tintinalli]** — *Tintinalli's Emergency Medicine: A Comprehensive Study Guide.* McGraw-Hill. *(Clinical death, resuscitation windows, isoelectric EEG — standard reference. Specific edition/pages to be cited.)*
+- **[Tintinalli]** — *Tintinalli's Emergency Medicine: A Comprehensive Study Guide.* McGraw-Hill. *(Clinical death, resuscitation windows, isoelectric EEG — standard reference.)* — ✓verified 2026-06-07 (current standard: 9th edition, McGraw-Hill, ©2020, ISBN 978-1260019933; eds. Tintinalli, Ma, Yealy, Meckler, Stapczynski, Cline, Thomas. Cite specific chapter/page when used inline.)
 
-- **[Saukko & Knight]** — Saukko P., Knight B. *Knight's Forensic Pathology.* CRC Press. *(Post-mortem changes, mortis markers, decomposition.)*
+- **[Saukko & Knight]** — Saukko P., Knight B. *Knight's Forensic Pathology.* CRC Press. *(Post-mortem changes, mortis markers, decomposition.)* — ✓verified 2026-06-07 (current standard: 4th edition, CRC Press / Taylor & Francis, 2016, ISBN 978-0340972533.)
 
-- **[DiMaio]** — DiMaio V.J., DiMaio D. *Forensic Pathology.* CRC Press. *(Time-of-death estimation, decomposition stages.)*
+- **[DiMaio]** — DiMaio V.J.M., Molina D.K. *DiMaio's Forensic Pathology.* CRC Press. *(Time-of-death estimation, decomposition stages.)* — ✓verified 2026-06-07 (current standard: 3rd edition, CRC Press / Taylor & Francis, ©2021, ISBN 978-1032004501; authors Vincent J.M. DiMaio & D. Kimberley Molina. Note: prior cited co-author "DiMaio D." corrected to Molina D.K. for the 3rd ed.)
 
 ## How to add a source
 

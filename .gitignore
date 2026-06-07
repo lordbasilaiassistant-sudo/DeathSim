@@ -9,3 +9,8 @@ desktop.ini
 # Drafts not yet sourced (keep unsourced work out of the public ledger)
 drafts/
 *.draft.md
+
+# Research: raw simulation arrays are large and fully regenerable from the scripts.
+# Commit the figures (PNG) and summary.jsonl (the evidence), not the raw arrays.
+*.npy
+*.npz

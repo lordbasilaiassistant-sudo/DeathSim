@@ -17,7 +17,8 @@ This is not a comfort document and not a debunking document. It is a ledger.
 - **[`facts/`](./facts/)** — the established physiology and timeline of death. High-confidence, cited.
 - **[`unknowns/`](./unknowns/)** — questions with real experiments behind them and no settled answer (consciousness at death, near-death experiences).
 - **[`theories/`](./theories/)** — explicitly labeled frameworks, from the scientific default to the speculative fringe. Nothing here is presented as fact.
-- **[`SOURCES.md`](./SOURCES.md)** — master citation list.
+- **[`research/`](./research/)** — where we *test* a contested claim with simulation or data until its confidence tag can honestly move. **First result:** [Experiment 01](./research/01-energy-failure-gamma-surge/) shows the dying-brain "gamma surge" is reproduced by a biophysical network containing **no consciousness** — energy failure alone is sufficient, matching the real measured ~10 s timing and surge-before-silence ordering (6/6 runs).
+- **[`SOURCES.md`](./SOURCES.md)** — master citation list. Every primary source individually verified against the publisher record.
 - **[`TAXONOMY.md`](./TAXONOMY.md)** — the confidence tags and the rules that govern every entry.
 
 ## The one rule

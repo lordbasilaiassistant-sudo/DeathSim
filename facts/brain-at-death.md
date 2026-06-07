@@ -16,9 +16,11 @@ A striking and genuinely surprising finding: in the seconds *after* cardiac arre
 
 **Why `[CONTESTED]`, not `[SUPPORTED]`:** the animal finding is reproducible and real, but the human evidence is a handful of confounded case reports, and the leap from "gamma oscillations" to "conscious near-death experience" is an *interpretation*, not a measurement. The electrical event is real; its experiential meaning is unproven. This is exactly the kind of claim the [taxonomy](../TAXONOMY.md) exists to keep from inflating.
 
+**In-silico evidence (this repo).** [Experiment 01](../research/01-energy-failure-gamma-surge/) tested whether the surge needs anything special. A biophysical E/I network with *no consciousness in it* — only ion dynamics and an ATP-dependent Na⁺/K⁺ pump — spontaneously reproduces the surge: after simulated cardiac arrest, a transient gamma-band surge (~10× baseline) appears **at ~7–9 s and precedes isoelectric silence in 6/6 runs**, matching Borjigin's measured ~10 s timing and surge-before-silence ordering, with [K⁺]ₒ rising to 72–86 mM (vs. the measured ~50–80 mM ceiling). This **supports the mechanistic reading**: the surge is a generic dynamical consequence of energy failure (firing rate is a non-monotonic function of [K⁺]ₒ — a hyperexcitable window, then depolarization block). It does **not** speak to experience — a simulated surge has no inside. So: the *electrical surge* moves toward `[SUPPORTED]` as a mechanism; "the surge **is** a conscious NDE" stays `[SPECULATIVE]`.
+
 ## Terminal spreading depolarization `[SUPPORTED]`
 
-As neurons exhaust their energy supply, they undergo **spreading depolarization** — a slow wave of mass depolarization (sometimes called the "brain tsunami" or, when terminal, the "wave of death") that propagates across the cortex as the ion gradients keeping cells alive collapse. Critically, this wave marks a **commitment point but is itself reversible** if circulation is restored quickly enough — it is the toxic process, not the moment of irreversible death per se. Studied in animal models and observed in dying human cortex. [Dreier; Zandt2011]
+As neurons exhaust their energy supply, they undergo **spreading depolarization** — a slow wave of mass depolarization (sometimes called the "brain tsunami" or, when terminal, the "wave of death") that propagates across the cortex as the ion gradients keeping cells alive collapse. Critically, this wave marks a **commitment point but is itself reversible** if circulation is restored quickly enough — it is the toxic process, not the moment of irreversible death per se. Studied in animal models and observed directly in dying human cortex. [Dreier2018; Zandt2011]
 
 ## Cellular function can outlast "death" `[SUPPORTED]`
 
@@ -41,4 +43,4 @@ This finding matters because it dissolves the clean line between "alive" and "de
 
 ---
 
-**Sources:** [Borjigin2013], [Borjigin2023], [Vicente2022], [Dreier], [Zandt2011], [Vrselja2019], [Tintinalli], [UDDA] — see [`../SOURCES.md`](../SOURCES.md).
+**Sources:** [Borjigin2013], [Borjigin2023], [Vicente2022], [Dreier2018], [Zandt2011], [Vrselja2019], [Tintinalli], [UDDA] — see [`../SOURCES.md`](../SOURCES.md).
