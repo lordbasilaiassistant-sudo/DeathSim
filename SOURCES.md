@@ -22,6 +22,14 @@ Master citation list. Each entry is keyed by the `[Tag]` used inline throughout 
 
 - **[Hansen1977]** — Hansen A.J. (1977). "Extracellular potassium concentration in juvenile and adult rat brain cortex during anoxia." *Acta Physiologica Scandinavica* 99(4):412–420. PMID: 855671. *(Direct K⁺-selective microelectrode measurement: resting cortical [K⁺]ₒ ≈ 3–5 mM; during anoxia [K⁺]ₒ rises abruptly to a ceiling on the order of ~50–80 mM at anoxic depolarization. The empirical anchor used to validate the Experiment-01 biophysical model in [`research/01-energy-failure-gamma-surge/`](./research/01-energy-failure-gamma-surge/).)* — ✓verified 2026-06-07 (Acta Physiol Scand 99(4):412–420, PMID 855671).
 
+## Methods (computational experiments in `research/`)
+
+- **[Schartner2015]** — Schartner M., Seth A., Noirhomme Q., Boly M., Bruno M.-A., Laureys S., Barrett A. (2015). "Complexity of Multi-Dimensional Spontaneous EEG Decreases during Propofol Induced General Anaesthesia." *PLoS ONE* 10(8):e0133532. *(Multichannel Lempel-Ziv complexity (LZc) method used in Experiment 02.)* — ⚠ method reference, not yet re-verified against publisher record this session (details from standard usage; confirm before public-reference promotion).
+
+- **[Casali2013]** — Casali A.G., Gosseries O., Rosanova M., Boly M., Sarasso S., Casali K.R., Casarotto S., Bruno M.-A., Laureys S., Tononi G., Massimini M. (2013). "A Theoretically Based Index of Consciousness Independent of Sensory Processing and Behavior." *Science Translational Medicine* 5(198):198ra105. *(Perturbational Complexity Index — the consciousness-complexity correlate Exp 02 builds on.)* — ⚠ method reference, not yet re-verified this session.
+
+- **[LempelZiv1976]** — Lempel A., Ziv J. (1976). "On the Complexity of Finite Sequences." *IEEE Transactions on Information Theory* 22(1):75–81. *(The LZ76 complexity measure.)* — ⚠ method reference, not yet re-verified this session.
+
 ## Foundational / reference
 
 - **[Chalmers]** — Chalmers D.J. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies* 2(3):200–219. *(The "hard problem.")* — ✓verified 2026-06-07 (J Conscious Stud 2(3):200–219, 1995).

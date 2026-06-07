@@ -9,6 +9,8 @@ Each experiment is self-contained, runs from the command line, validates against
 | # | Question | Claim tested | Result | Tag movement |
 |---|----------|--------------|--------|--------------|
 | [01](./01-energy-failure-gamma-surge/) | Does energy failure *alone* produce the dying-brain gamma surge? | end-of-life gamma surge `[CONTESTED]` | **Yes** — a biophysical network with no consciousness reproduces the surge, at the measured ~10 s timing, surge-before-silence, 6/6 seeds, validated vs. real [K⁺]ₒ data | *electrical surge* → `[SUPPORTED]` as mechanism; "surge = conscious NDE" stays `[SPECULATIVE]` |
+| [02](./02-is-the-surge-rich-or-just-loud/) | Is the surge *rich* (could feel like something) or just *loud*? | "surge = vivid final experience" | **Leans loud-not-rich** — surge complexity ~0.4× waking (seizure-like: high power + synchrony, low differentiation), 4/4 seeds, two measures agree | "surge supports *rich* experience" → leans-against; experience itself stays `[OPEN]` |
+| [03](./03-neural-net/) *(in progress)* | Can a net classify dying-brain states, and does the surge transfer to *real* seizure/anesthesia EEG? | "surge = seizure-like" as a real-data prediction | **Learnability validated** (77% on a held-out network, 85% surge recall); dataset sweep + real-EEG transfer test pending | TBD |
 
 ## The bar for an experiment here
 

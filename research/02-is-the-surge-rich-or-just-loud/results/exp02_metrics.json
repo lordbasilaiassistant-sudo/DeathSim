@@ -1,0 +1,23 @@
+{
+  "baseline": {
+    "LZc": 0.912,
+    "synchrony": 0.05,
+    "power": 105.9,
+    "active_frac": 0.367,
+    "win": "1125 samp"
+  },
+  "surge": {
+    "LZc": 0.36,
+    "synchrony": 0.48,
+    "power": 464.3,
+    "active_frac": 0.38,
+    "win": "400 samp"
+  },
+  "silence": {
+    "LZc": 0.232,
+    "synchrony": 0.05,
+    "power": 49.2,
+    "active_frac": 0.323,
+    "win": "750 samp"
+  }
+}
